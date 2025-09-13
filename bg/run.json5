@@ -11,13 +11,13 @@
     ],
   },
   {
-    ip: "43.128.81.208",
+    ip: "150.109.16.136",
     server: [
       {
-        key:"bg_4adb68a6a6a8e20ec63b3fcfbac76594",
+        key:"bg_c79b788e8a682f692e5fa0dc1cd8bad9",
       },
       {
-        key:"bg_09c9bc8ec06f2f4b352a336a011ad58f",
+        key:"bg_2c24428c6ad11340f1d5b31b3dcbd5dc",
       }
     ],
   }
