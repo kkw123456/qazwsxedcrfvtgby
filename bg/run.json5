@@ -20,5 +20,27 @@
         key:"bg_2c24428c6ad11340f1d5b31b3dcbd5dc",
       }
     ],
-  }
+  },
+  {
+    ip: "43.155.186.14",
+    server: [
+      {
+        key:"bg_4adb68a6a6a8e20ec63b3fcfbac76594",
+      },
+      {
+        key:"bg_011bdd2693b21d926bf66783c5a04588",
+      },
+      {
+        key:"bg_66b427009919c6af2cf4e6865fc7a45f",
+      }
+    ],
+  },
+  {
+    ip: "43.165.183.220",
+    server: [
+      {
+        key:"bg_09c9bc8ec06f2f4b352a336a011ad58f",
+      },
+    ],
+  },
 ]
