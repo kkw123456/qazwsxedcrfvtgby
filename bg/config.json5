@@ -1,4 +1,5 @@
 {
+   enabled: true,
    filter: ['PENGU', 'TON', 'FARTCOIN', 'PI', 'HYPE', 'TRUMP', 'BAKE', 'HIFI', 'SLF',"TEST","TA","MYX","BSW","WLFI","AVNT","F","ALPHA","STBL"],
 }
 
