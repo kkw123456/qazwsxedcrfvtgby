@@ -37,7 +37,8 @@
       "ALPHA",
       "STBL",
       "UXLINK",
-      "COAI"
+      "COAI",
+      "RVV"
    ]
 }
 
