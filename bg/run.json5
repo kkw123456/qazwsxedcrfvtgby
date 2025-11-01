@@ -14,9 +14,6 @@
     ip: "150.109.16.136",
     server: [
       {
-        key:"bg_c79b788e8a682f692e5fa0dc1cd8bad9",
-      },
-      {
         key:"bg_2c24428c6ad11340f1d5b31b3dcbd5dc",
       }
     ],
